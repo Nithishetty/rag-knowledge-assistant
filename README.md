@@ -6,24 +6,24 @@ The application allows users to upload PDF documents and ask questions about the
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📄 Upload multiple PDF documents
-- 🔍 Extract text from PDF documents
-- ✂️ Split documents into smaller chunks
-- 🧠 Generate embeddings using Gemini
-- 🗄️ Store document embeddings in ChromaDB
-- 🔎 Perform semantic similarity search
-- 🤖 Generate answers using Gemini LLM
-- 💬 Interactive chat interface using Streamlit
-- 🧾 Display document sources and page numbers
-- 🔄 Create a separate vector database for each document-processing session
-- 🧹 Clear chat history
-- 🔐 API key stored securely using environment variables
+-  Upload multiple PDF documents
+-  Extract text from PDF documents
+-  Split documents into smaller chunks
+-  Generate embeddings using Gemini
+-  Store document embeddings in ChromaDB
+-  Perform semantic similarity search
+-  Generate answers using Gemini LLM
+-  Interactive chat interface using Streamlit
+-  Display document sources and page numbers
+-  Create a separate vector database for each document-processing session
+-  Clear chat history
+-  API key stored securely using environment variables
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
                 PDF Documents
